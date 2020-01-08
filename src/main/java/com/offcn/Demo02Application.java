@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Demo02Application {
     /**
-     * 主方法没事
+     * 主方法注释有事
      * @param args
      */
     public static void main(String[] args) {
